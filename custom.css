@@ -1,0 +1,4 @@
+.wp-block-cover .wp-block-cover__inner-container, 
+.wp-block-cover-image .wp-block-cover__inner-container {
+    color: #000000 !important; /* Use a color that matches your site's style */
+}
